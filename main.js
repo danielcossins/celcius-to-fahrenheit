@@ -54,3 +54,4 @@ var button = document.getElementById("converter");
 
 // Assign a function to be executed when the button is clicked
 button.onclick = determineConverter;//();
+//doesn't need () because 
